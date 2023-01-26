@@ -1,0 +1,29 @@
+{
+    "workbench.startupEditor": "none",
+    "redhat.telemetry.enabled": false,
+
+    "git.ignoreLegacyWarning": true,
+    "vim.disableAnnoyingNeovimMessage": true,
+    "extensions.ignoreRecommendations": false,
+    "editor.tabSize": 2,
+
+    "editor.insertSpaces": true,
+    "window.zoomLevel": -1,
+
+    "terminal.integrated.fontSize": 14,
+
+    "editor.autoClosingBrackets": "never",
+    "html.autoClosingTags": false,
+
+    "files.trimTrailingWhitespace": true,
+    "explorer.confirmDelete": false,
+    "extensions.autoUpdate": false,
+    "git.confirmSync": false,
+
+    "editor.rulers": [
+      80
+    ],
+    "debug.allowBreakpointsEverywhere": true,
+    "workbench.editor.untitled.hint": "hidden"
+
+}
